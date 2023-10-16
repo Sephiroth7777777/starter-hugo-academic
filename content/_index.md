@@ -65,8 +65,8 @@ sections:
         #       * Implemented maintenance, continuous integration, and provided business analysis for an internal-use web application
         #       *	Participated in initial start of the rewrite project, and provided time & cost estimation
 
-    design:
-      columns: '2'
+    # design:
+    #   columns: '2'
   # - block: accomplishments
   #   content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
