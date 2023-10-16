@@ -43,7 +43,7 @@ sections:
           company: IBM
           company_url: ''
           company_logo: org-gc
-          location: Pennsylvania
+          location: California
           date_start: '2021-09'
           date_end: ''
           description: |2-
