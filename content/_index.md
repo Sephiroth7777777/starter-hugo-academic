@@ -52,18 +52,18 @@ sections:
               * Led the development of a hybrid cloud architecture based on an existing SpringBoot microservices
               * Leveraged OpenShift for on-premises deployments and AWS for public cloud integration
 
-        - title: Senior Software Engineer
-          company: eBay
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2020-10'
-          date_end: '2021-08'
-          description: |2-
-              Responsibilities include:
+        # - title: Senior Software Engineer
+        #   company: eBay
+        #   company_url: ''
+        #   company_logo: org-x
+        #   location: California
+        #   date_start: '2020-10'
+        #   date_end: '2021-08'
+        #   description: |2-
+        #       Responsibilities include:
 
-              * Implemented maintenance, continuous integration, and provided business analysis for an internal-use web application
-              *	Participated in initial start of the rewrite project, and provided time & cost estimation
+        #       * Implemented maintenance, continuous integration, and provided business analysis for an internal-use web application
+        #       *	Participated in initial start of the rewrite project, and provided time & cost estimation
 
     design:
       columns: '2'
