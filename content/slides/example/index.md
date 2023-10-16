@@ -14,8 +14,10 @@ slides:
 ---
 
 # Create slides in Markdown with Wowchemy
-
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
+Presentation:
+  - icon: cv
+      icon_pack: ai
+      link: uploads/resume.pdf
 
 ---
 
