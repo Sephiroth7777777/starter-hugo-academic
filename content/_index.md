@@ -27,46 +27,46 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Development Lead
-          company: IBM
-          company_url: ''
-          company_logo: org-gc
-          location: Pennsylvania
-          date_start: '2021-09'
-          date_end: '2023-06'
-          description: |2-
-              Responsibilities include:
+  # - block: experience
+  #   content:
+  #     title: Experience
+  #     # Date format for experience
+  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: Development Lead
+  #         company: IBM
+  #         company_url: ''
+  #         company_logo: org-gc
+  #         location: Pennsylvania
+  #         date_start: '2021-09'
+  #         date_end: '2023-06'
+  #         description: |2-
+  #             Responsibilities include:
 
-              * Led the development of a hybrid cloud architecture based on an existing SpringBoot microservices
-              * Leveraged OpenShift for on-premises deployments and AWS for public cloud integration
+  #             * Led the development of a hybrid cloud architecture based on an existing SpringBoot microservices
+  #             * Leveraged OpenShift for on-premises deployments and AWS for public cloud integration
 
-        # - title: Senior Software Engineer
-        #   company: eBay
-        #   company_url: ''
-        #   company_logo: org-x
-        #   location: California
-        #   date_start: '2020-10'
-        #   date_end: '2021-08'
-        #   description: |2-
-        #       Responsibilities include:
+  #       - title: Senior Software Engineer
+  #         company: eBay
+  #         company_url: ''
+  #         company_logo: org-x
+  #         location: California
+  #         date_start: '2020-10'
+  #         date_end: '2021-08'
+  #         description: |2-
+  #             Responsibilities include:
 
-        #       * Implemented maintenance, continuous integration, and provided business analysis for an internal-use web application
-        #       *	Participated in initial start of the rewrite project, and provided time & cost estimation
+  #             * Implemented maintenance, continuous integration, and provided business analysis for an internal-use web application
+  #             *	Participated in initial start of the rewrite project, and provided time & cost estimation
 
-    design:
-      columns: '2'
+  #   design:
+  #     columns: '2'
   # - block: accomplishments
   #   content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
