@@ -43,23 +43,27 @@ sections:
           company: IBM
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Pennsylvania
+          date_start: '2021-09-13'
+          date_end: '2023-06-27'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Led the development of a hybrid cloud architecture based on an existing SpringBoot microservices
+              * Leveraged OpenShift for on-premises deployments and AWS for public cloud integration
+
+        - title: Senior Software Engineer
+          company: eBay
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2020-10-28'
+          date_end: '2021-09-10'
+          description: |2-
+              Responsibilities include:
+
+              * Implemented maintenance, continuous integration, and provided business analysis for an internal-use web application
+              *	Participated in initial start of the rewrite project , and provided time & cost estimation
     design:
       columns: '2'
   # - block: accomplishments
