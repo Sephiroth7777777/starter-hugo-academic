@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: End-to-end Learning in Self Driving
+summary: Replication of 2019 ICRA best paper - Variational end-to-end navigation and localization
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
