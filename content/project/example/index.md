@@ -18,8 +18,8 @@ image:
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: ''
-url_slides: 'uploads/e2e.pptx'
+url_pdf: 'uploads/e2e.pptx'
+url_slides: ''
 url_video: ''
 
 # Slides (optional).
