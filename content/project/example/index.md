@@ -19,7 +19,7 @@ image:
 #     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'uploads/resume.pdf'
+url_slides: 'uploads/e2e.pptx'
 url_video: ''
 
 # Slides (optional).
@@ -33,3 +33,7 @@ slides: ""
 The total level of self-driving can be devided into 6 levels from L0 to L5. Nowadays, the level of self-driving car has reached to L3, which still requires some participation of drivers and cannot realize complete self-driving. We believe the presentation of end-to-end learning has pointed out a new way to a higher level of self-driving, and it can replace some technical redundancy of current self-driving solution.
 
 Due to the inspiration from the paper “Variational End-to-End Navigation and Localization”, we designed and reproduced the network presented by the paper and got some useful result.
+
+Project Overview: http://yangyuan.leanote.com/post/e2e
+
+Project Code: https://github.com/Sephiroth7777777/End-to-End-Learning
