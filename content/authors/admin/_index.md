@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Student of Artificial Intelligence
+role: Master Student of Information Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,6 +26,8 @@ bio: My research interests include machine learning and computer vision.
 
 # Interests to show in About widget
 interests:
+  - Software Engineering
+  - Cloud Service
   - Machine Learning
   - Computer Vision
 
