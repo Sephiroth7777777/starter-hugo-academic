@@ -72,5 +72,5 @@ email: ''
 highlight_name: true
 ---
 
-Motivated master student with a focus on artificial intelligence, committed to making meaningful contributions to the field. Eager to engage in cutting-edge research, collaborate with esteemed professionals, and contribute to the ongoing progress of machine learning and computer vision.
+Results-driven micro service engineer with 3 years of experience in full-stack development. Proven track record of successfully delivering high-quality software solutions. Expertise in Java, Cloud Service, DevOps and Containerization. Passionate about solving complex problems and driving innovation.
 {style="text-align: justify;"}
