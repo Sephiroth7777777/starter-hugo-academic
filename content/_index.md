@@ -45,7 +45,7 @@ sections:
           company_logo: org-gc
           location: Pennsylvania
           date_start: '2021-09-13'
-          date_end: '2023-06-27'
+          date_end: '2024-06-27'
           description: |2-
               Responsibilities include:
 
