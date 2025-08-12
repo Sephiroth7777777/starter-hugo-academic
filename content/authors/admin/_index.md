@@ -74,5 +74,5 @@ email: ''
 highlight_name: true
 ---
 
-Results-driven micro service engineer with 4 years of experience in full-stack development. Proven track record of successfully delivering high-quality software solutions. Expertise in Java, Cloud Service, DevOps and Containerization. Passionate about solving complex problems and driving innovation.
+Results-driven micro service engineer with 4  years of experience in full-stack development. Proven track record of successfully delivering high-quality software solutions. Expertise in Java, Cloud Service, DevOps and Containerization. Passionate about solving complex problems and driving innovation.
 {style="text-align: justify;"}
