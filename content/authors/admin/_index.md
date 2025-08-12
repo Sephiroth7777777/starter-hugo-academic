@@ -34,6 +34,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: University of Waterloo
+      year: 2025
     - course: MS in Information Science
       institution: University of Pittsburgh
       year: 2020
